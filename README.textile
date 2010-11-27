@@ -1,0 +1,33 @@
+h1. Painter - a nesta theme
+
+h2. Installation
+
+*Step 1.* Get the latest copy of nesta.
+
+$ git clone git://github.com/gma/nesta.git <project_name>
+
+
+*Step 2.* Install bundler gem if you don't already have one.
+_Recommendation: Install bundler gem via RVM(Ruby Version Manager) instead_
+
+$ gem install bundler
+$ cd <project_name>
+$ bundle install
+
+
+*Step 3.* From within your Nesta project, run:
+
+$ ./scripts/theme install git://github.com/bobbylee/nesta-theme-painter
+
+
+*Step 4.* Replace initial config/config.yml and local/app.rb files.
+
+$ sudo cp -r ./themes/painter/_setup/* ./
+
+
+*Step 5.* Run development web server (can be a little slow)
+
+$ bundle exec shotgun config.ru
+
+
+*Step 6.* Launch browser to view site. (Show Time!)

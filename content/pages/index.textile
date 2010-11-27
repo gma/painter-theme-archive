@@ -1,0 +1,20 @@
+Date: 22 Nov 2010 19:30am +1200
+Keywords: Painter, nesta theme, homepage 
+Summary: This is going to get messy
+
+h1. home 
+
+<hr />
+
+bq(black). "Damn that Painter! 
+Now who is going to clean this up???"
+
+p>(black). -- Anti-Painter
+
+<hr />
+
+This theme is a concept design created for Nesta. The designer a.k.a "The Painter" added 960-grid css, image buttons, jQuery (with plug-ins) and before @</body>@ javascript. "Anti-Painter" is just someone who only knows how to complain about the Painter. Enjoy this theme... and hope it will make you become a better Painter. Btw, feel free to give feedback on improving this theme.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+p=. "(button)View this theme's specs...":/theme-specifications

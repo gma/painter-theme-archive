@@ -1,0 +1,6 @@
+bq(white). How Rude!!!
+The painter is going to pay!!!
+
+p>(white). -- Anti-Painter
+
+p=(white top_double-space). _p/s: Only the "back" button can undo this mess_

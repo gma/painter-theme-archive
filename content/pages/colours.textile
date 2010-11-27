@@ -1,0 +1,43 @@
+Date: 13 Nov 2010 10:30am +1300
+Categories: colours, painter
+Keywords: Colours 
+Summary: Superman - Man of Steel
+
+h1. Colours
+
+Here is the colour chart with some fancy jQuery effect. Click to see more:
+
+(#colour-chart)*(current background_atomic) Atomic
+"view":/colours/atomic
+*(background_deep-cerise) Deep Cerise 
+"view":/colours/deep-cerise
+*(background_deep-lilac) Deep Lilac 
+"view":/colours/deep-lilac
+*(background_fruit-salad) Fruit Salad 
+"view":/colours/fruit-salad
+*(background_olive) Olive 
+"view":/colours/olive
+*(background_pure-black) Pure Black 
+"view":/colours/pure-black
+*(background_venetian-red) Venetian Red 
+"view":/colours/venetian-red
+*(background_yellow dark) Yellow 
+"view":/colours/yellow
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Here is the colour chart in table form:
+
+table(#colour-table).
+|(background_atomic). &nbsp; |(background_deep-cerise). &nbsp;  |(background_deep-lilac). &nbsp; |(background_fruit-salad). &nbsp; |(background_olive). &nbsp; |(background_pure-black). &nbsp; |(background_venetian-red). &nbsp; |(background_yellow). &nbsp; |
+
+<hr />
+
+bq(black). "How dare the Painter uses the @<table>@ mark-up above! 
+It's abominable! Off with his head!!!"
+
+p>(black). -- Anti-Painter
+
+<hr />
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

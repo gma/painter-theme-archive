@@ -1,0 +1,35 @@
+Date: 13 Nov 2010 10:30am +1300
+Categories: painter 
+Keywords: technical 
+Summary: Tech tools used to generate this Nesta theme - Painter. 
+
+h1. Theme Specifications 
+
+h3. Nesta (cms framework)
+
+ruby / textile / haml / scss / 960 grid[1] / jquery / sexy.js
+
+h3. software
+
+p(bottom_double-space). win / photoshop / virtual-box / ubuntu[2] / vim / git
+
+<hr />
+
+bq(black). "What? No Mac... Impossible!!!"
+
+p>(black). -- Anti-Painter
+
+<hr />
+
+h3. ingredients
+
+# 1 colourful Painter
+# 1 jealous Anti-Painter
+# 1 cup of milo
+# 1/2 cup of milk
+# 1/4 teaspoon of sugar
+
+
+fn1>(top_double-space). 960 grid generated from "1kb grid (1kb grid)":http://www.1kbgrid.com/
+
+fn2>. Ubuntu 10.10

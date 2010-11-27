@@ -1,0 +1,23 @@
+!!!
+%html{ :lang => "en", "xml:lang" => "en", :xmlns => 'http://www.w3.org/1999/xhtml' }
+  %head
+    %meta{ "http-equiv" => "content-type", "content" => "text/html; charset=utf-8" }
+    - if @description
+      %meta{ "name" => "description", "content" => @description }
+    - if @keywords
+      %meta{ "name" => "keywords", "content" => @keywords }
+    %title= @title
+    %link{ :href => "/stylesheets/site.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
+    %link{ :href => "/articles.xml", :rel => "alternate", :type => "application/atom+xml" }
+    %script{ :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js", :type => "text/javascript" }
+  %body{ :class => @body_class }
+    #container.splat
+      #header
+        Splat
+      #main.row
+        #content.grid_7 
+          ~ @page.to_html
+      - if @javascript 
+        :javascript 
+          #{@javascript}
+

@@ -1,0 +1,14 @@
+#container #content ul#colour-chart { display:inline-block; overflow:hidden; width:620px; height:140px; margin:0 auto; position:relative; list-style-type:none;}
+#colour-chart li { color: #fff; width:120px; height:100px; position:absolute; top:0; left:0; 
+  text-align:center; border:1px solid #000; cursor:pointer; padding: 10px 0;
+  -moz-box-shadow: 0px 0px 3px #000; -webkit-box-shadow: 0px 0px 3px #000; box-shadow: 0px 0px 3px #000;
+  -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; }
+#colour-chart li.dark { color: #000; }
+#colour-chart li a { color:#fff; text-decoration:none;}              
+#colour-chart li.dark a { color:#000; text-decoration:underline;}
+#colour-chart li.current { border:solid 1px #888; cursor:default;}
+#colour-chart li.current a { color:#fff; text-decoration:underline;}
+#colour-chart li.current.dark a { color:#000; text-decoration:underline;}
+
+#colour-table { border-collapse: collapse; border-spacing: 10px; table-layout: fixed; margin: 0 0 1em; }
+#colour-table td { display: inline-block; height: 50px; width: 20px; }
