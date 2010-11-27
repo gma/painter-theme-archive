@@ -4,14 +4,14 @@ h2. Installation
 
 *Step 1.* Get the latest copy of nesta.
 
-$ git clone git://github.com/gma/nesta.git <project_name>
+$ git clone git://github.com/gma/nesta.git
 
 
 *Step 2.* Install bundler gem if you don't already have one.
 _Recommendation: Install bundler gem via RVM(Ruby Version Manager) instead_
 
 $ gem install bundler
-$ cd <project_name>
+$ cd nesta
 $ bundle install
 
 
